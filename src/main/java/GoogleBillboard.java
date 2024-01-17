@@ -12,6 +12,8 @@ public class GoogleBillboard {
 	
 
 	//Finish this function
+	//Note that you can only call isPrime() in your main() method if you make isPrime() static since main() is also a static method.
+		
 	public boolean isPrime(dNum){
 		 if(dNum < 2)
     return false;
